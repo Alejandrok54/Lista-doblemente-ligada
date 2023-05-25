@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683651146 source:c:\users\usuario\desktop\ldllse\main.cpp
+	<iostream>
+	"socio.hpp"
+
+1683650069 c:\users\usuario\desktop\ldllse\socio.hpp
+
